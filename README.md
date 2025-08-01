@@ -1,5 +1,9 @@
-## Hi there 👋
-
-- 🔭 I love working on Fullstack and Cloud based projects
-- 🌱 I’m currently learning Devops
-- 😄 Pronouns: She/Her
+```ts
+const 0xSupriya = {
+  role: "Builder",
+  passion: "Turning ideas into products",
+  currently: {
+    building: "Unitee",
+    learning: ["DSA", "Web3"]
+  }
+}
