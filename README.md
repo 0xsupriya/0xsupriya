@@ -1,4 +1,5 @@
 ## Hi, I'm Supriya 👋
+### 🛠️ I turn caffeine into commits (and sometimes bugs)
 
 ```js
 const 0xSupriya = {
