@@ -1,8 +1,11 @@
-Hi, I'm Supriya 👋  
-A builder passionate about turning ideas into products.
+## Hi, I'm Supriya 👋
 
-// what I'm up to
-
-- 🚀 Building `Unitee`
-- 📚 Sharpening `DSA` skills
-- 🌐 Diving into `Web3`
+```js
+const 0xSupriya = {
+  role: "Builder 👷‍♀️",
+  passion: "Turning ideas into products 💡",
+  currently: {
+    building: "Unitee 🚀",
+    learning: ["DSA 🧠", "Web3 🌐"]
+  }
+}
