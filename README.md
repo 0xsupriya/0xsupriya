@@ -1,9 +1,8 @@
-```ts
-const 0xSupriya = {
-  role: "Builder",
-  passion: "Turning ideas into products",
-  currently: {
-    building: "Unitee",
-    learning: ["DSA", "Web3"]
-  }
-}
+Hi, I'm Supriya 👋  
+A builder passionate about turning ideas into products.
+
+// what I'm up to
+
+- 🚀 Building `Unitee`
+- 📚 Sharpening `DSA` skills
+- 🌐 Diving into `Web3`
