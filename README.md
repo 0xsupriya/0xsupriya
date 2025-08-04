@@ -17,7 +17,7 @@ const 0xSupriya = {
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,nestjs,js,ts,cpp,java,python,git,github" width="600"/>
 </p>
 <br/>
-<h2 align="center">📮 React me there</h2>
+<h2 align="center">💬 Let’s Connect</h2>
 <p align="center">
 <a href="mailto:0xsupriya@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Gmail" width="40"/>
