@@ -12,7 +12,7 @@ const 0xSupriya = {
   }
 }
 ```
-<h2 align="center">💻 Tools I Tinker With</h2>
+<h2 align="center">💻 Build Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,nestjs,js,ts,cpp,java,python,git,github" width="600"/>
 </p>
