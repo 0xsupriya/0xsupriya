@@ -30,4 +30,4 @@ const 0xSupriya = {
     <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="X" width="40"/>
   </a>
 </p>
-<h6 align="center">💬 Let’s Connect</h6>
+<h5 align="center">💬 Let’s Connect</h5>
