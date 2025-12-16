@@ -8,7 +8,6 @@ const 0xSupriya = {
   currently: {
     building: "Unitee 🚀",
     working_on: "real world appliations",
-    learning: ["DSA 🧠", "Web3 🌐"]
   }
 }
 ```
